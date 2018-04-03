@@ -11,3 +11,4 @@ This is divided in three branches: 'master', 'cards' and 'recurring'. Each branc
 Enjoy!
 
 Tealeaf Team# Rails---Paypal-Integration
+# rails-paypal-integration
